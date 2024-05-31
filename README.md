@@ -1,16 +1,4 @@
-# lesson47
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Aabdulloh2005/Firebase-todo-app/assets/153055444/bb8cf6cd-3b0f-4799-aa43-79843f9bbc8d
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
